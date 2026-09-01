@@ -8,69 +8,39 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ### Software Engineering
 
-#### [Car-naval — Symfony](https://github.com/theodev23/carpooling-web-app-symfony)
+- **[Car-naval — Symfony](https://github.com/theodev23/carpooling-web-app-symfony)** — Carpooling web application modernized from procedural PHP to Symfony, with booking management, security, functional tests, and CI.<br>
+  `PHP` · `Symfony` · `Doctrine ORM` · `MariaDB` · `Twig` · `PHPUnit` · `GitHub Actions`
 
-Carpooling web application modernized from procedural PHP to Symfony, with booking management, security, functional tests, and CI.
+- **[Hotel Booking REST API](https://github.com/theodev23/hotel-booking-rest-api-spring-boot)** — Distributed hotel booking backend composed of an agency service and two independent hotel REST services.<br>
+  `Java` · `Spring Boot` · `REST` · `Maven` · `JUnit` · `Mockito`
 
-`PHP` · `Symfony` · `Doctrine ORM` · `MariaDB` · `Twig` · `PHPUnit` · `GitHub Actions`
-
-#### [Hotel Booking REST API](https://github.com/theodev23/hotel-booking-rest-api-spring-boot)
-
-Distributed hotel booking backend composed of an agency service and two independent hotel REST services.
-
-`Java` · `Spring Boot` · `REST` · `Maven` · `JUnit` · `Mockito`
-
-#### [Hotel Booking SOAP](https://github.com/theodev23/hotel-booking-soap-spring-ws)
-
-Distributed hotel booking system exposing SOAP web services from an XSD-based contract.
-
-`Java` · `Spring Web Services` · `SOAP` · `XSD` · `JAXB` · `Maven`
+- **[Hotel Booking SOAP](https://github.com/theodev23/hotel-booking-soap-spring-ws)** — Distributed hotel booking system exposing SOAP web services from an XSD-based contract.<br>
+  `Java` · `Spring Web Services` · `SOAP` · `XSD` · `JAXB` · `Maven`
 
 ### Data Engineering & Analytics
 
-#### [European Energy Data Platform](https://github.com/theodev23/european-energy-data-platform)
+- **[European Energy Data Platform](https://github.com/theodev23/european-energy-data-platform)** — Production-style cloud ELT platform for European electricity data.<br>
+  `Python` · `Apache Airflow` · `Google Cloud Storage` · `BigQuery` · `dbt` · `SQL` · `Docker` · `GitHub Actions`
 
-Production-style cloud ELT platform for European electricity data.
+- **[NYC Taxi Lakehouse](https://github.com/theodev23/nyc-taxi-lakehouse-pyspark-databricks)** — Reproducible lakehouse pipeline processing NYC Taxi data with Bronze, Silver, and Gold layers.<br>
+  `Python` · `PySpark` · `Delta Lake` · `Databricks` · `SQL` · `pytest` · `GitHub Actions`
 
-`Python` · `Apache Airflow` · `Google Cloud Storage` · `BigQuery` · `dbt` · `SQL` · `Docker` · `GitHub Actions`
+- **[E-commerce Analytics with PostgreSQL](https://github.com/theodev23/sql-ecommerce-analytics-postgresql)** — End-to-end analytical data warehouse built from raw retail transactions.<br>
+  `PostgreSQL` · `SQL` · `Dimensional Modeling` · `Data Quality` · `KPIs` · `RFM Analysis`
 
-#### [NYC Taxi Lakehouse](https://github.com/theodev23/nyc-taxi-lakehouse-pyspark-databricks)
+- **[Chicago Food Inspections Data Quality](https://github.com/theodev23/chicago-food-inspections-data-quality)** — Incremental ETL pipeline focused on data profiling, validation, quality controls, and reproducible processing.<br>
+  `Python` · `pandas` · `PyArrow` · `Parquet` · `pytest` · `YAML` · `GitHub Actions`
 
-Reproducible lakehouse pipeline processing NYC Taxi data with Bronze, Silver, and Gold layers.
-
-`Python` · `PySpark` · `Delta Lake` · `Databricks` · `SQL` · `pytest` · `GitHub Actions`
-
-#### [E-commerce Analytics with PostgreSQL](https://github.com/theodev23/sql-ecommerce-analytics-postgresql)
-
-End-to-end analytical data warehouse built from raw retail transactions.
-
-`PostgreSQL` · `SQL` · `Dimensional Modeling` · `Data Quality` · `KPIs` · `RFM Analysis`
-
-#### [Chicago Food Inspections Data Quality](https://github.com/theodev23/chicago-food-inspections-data-quality)
-
-Incremental ETL pipeline focused on data profiling, validation, quality controls, and reproducible processing.
-
-`Python` · `pandas` · `PyArrow` · `Parquet` · `pytest` · `YAML` · `GitHub Actions`
-
-#### [Data Visualization Application](https://github.com/theodev23/application-visualisation-donnees)
-
-Application for exploring and visualizing data from files and external data sources.
-
-`Python` · `Data Visualization`
+- **[Data Visualization Application](https://github.com/theodev23/application-visualisation-donnees)** — Application for exploring and visualizing data from files and external data sources.<br>
+  `Python` · `Data Visualization`
 
 ### AI & Research
 
-#### [Scientific Tweet Classification](https://github.com/theodev23/scientific-tweet-classification-ml)
+- **[Scientific Tweet Classification](https://github.com/theodev23/scientific-tweet-classification-ml)** — Machine learning project for scientific tweet classification using classical NLP techniques.<br>
+  `Python` · `scikit-learn` · `TF-IDF` · `SVM` · `Optuna` · `spaCy`
 
-Machine learning project for scientific tweet classification using classical NLP techniques.
-
-`Python` · `scikit-learn` · `TF-IDF` · `SVM` · `Optuna` · `spaCy`
-
-#### [TER2026](https://github.com/theodev23/TER2026)
-
-Semantic knowledge graph and GraphRAG project for scientific forest definitions using RDF/SKOS and Neo4j.
-
-`Python` · `RDF` · `SKOS` · `Neo4j` · `GraphRAG` · `LLMs`
+- **[TER2026](https://github.com/theodev23/TER2026)** — Semantic knowledge graph and GraphRAG project for scientific forest definitions using RDF/SKOS and Neo4j.<br>
+  `Python` · `RDF` · `SKOS` · `Neo4j` · `GraphRAG` · `LLMs`
 
 ## Technical interests
 
