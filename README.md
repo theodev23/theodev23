@@ -65,6 +65,6 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ## Currently
 
-I'm preparing for the second year of my Master's degree in Computer Science and am open to **6-month internship opportunities starting in January 2027**, particularly in software, data, or related engineering roles.
+Second-year Master's student in Computer Science at the University of Montpellier, open to 6-month internship opportunities starting in January 2027, particularly in software, data, or related engineering roles.
 
 📍 Montpellier, France
