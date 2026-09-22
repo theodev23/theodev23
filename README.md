@@ -8,6 +8,9 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ### Software Engineering
 
+- **[Conference Guestbook — Symfony](https://github.com/theodev23/symfony-guestbook)** — Production-deployed conference guestbook with asynchronous comment moderation, AI-assisted spam detection, notifications, API Platform, and HTTP caching.<br>
+  `PHP` · `Symfony` · `Doctrine ORM` · `PostgreSQL` · `Messenger` · `RabbitMQ` · `Redis` · `API Platform` · `Upsun`
+
 - **[Car-naval — Symfony](https://github.com/theodev23/carpooling-web-app-symfony)** — Carpooling web application modernized from procedural PHP to Symfony, with booking management, security, functional tests, and CI.<br>
   `PHP` · `Symfony` · `Doctrine ORM` · `MariaDB` · `Twig` · `PHPUnit` · `GitHub Actions`
 
