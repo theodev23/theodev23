@@ -8,6 +8,9 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ### Software Engineering
 
+- **[Il nous manque un joueur — Symfony](https://github.com/theodev23/manque-un-joueur)** — Football match organization web application with participation requests, player capacity management, cancellation email notifications, a read-only JSON API, and functional tests.<br>
+  `PHP` · `Symfony` · `Doctrine ORM` · `MariaDB` · `Twig` · `Symfony Mailer` · `PHPUnit`
+
 - **[Conference Guestbook — Symfony](https://github.com/theodev23/symfony-guestbook)** — Production-deployed conference guestbook with asynchronous comment moderation, AI-assisted spam detection, notifications, API Platform, and HTTP caching.<br>
   `PHP` · `Symfony` · `Doctrine ORM` · `PostgreSQL` · `Messenger` · `RabbitMQ` · `Redis` · `API Platform` · `Upsun`
 
