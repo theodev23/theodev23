@@ -8,6 +8,9 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ### Software Engineering
 
+- **[Snapface — Angular](https://github.com/theodev23/snapface)** — Photo-sharing web application with a gallery, detailed photo views, snap interactions, and a reactive creation form backed by a mock REST API.<br>
+  `Angular 21` · `TypeScript` · `RxJS` · `Reactive Forms` · `JSON Server`
+
 - **[Il nous manque un joueur — Symfony](https://github.com/theodev23/manque-un-joueur)** — Football match organization web application with participation requests, player capacity management, cancellation email notifications, a read-only JSON API, and functional tests.<br>
   `PHP` · `Symfony` · `Doctrine ORM` · `MariaDB` · `Twig` · `Symfony Mailer` · `PHPUnit`
 
@@ -59,9 +62,9 @@ I'm curious by nature and enjoy learning new things, exploring emerging technolo
 
 ## Technologies
 
-**Languages:** PHP · Java · Python · SQL
+**Languages:** PHP · Java · Python · TypeScript · SQL
 
-**Backend & Web:** Symfony · Doctrine ORM · Twig · Spring Boot · REST APIs · SOAP · Maven
+**Backend & Web:** Angular · RxJS · Symfony · Doctrine ORM · Twig · Spring Boot · REST APIs · SOAP · Maven
 
 **Data:** MariaDB · PostgreSQL · PySpark · Delta Lake · Databricks · BigQuery · dbt · Neo4j
 
